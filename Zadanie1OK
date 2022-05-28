@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <title>Marcin - My Family</title>
+  </head>
+  <body>
+    <!-- <script type="text/javascript" src="js/variables/index.js"></script> -->
+    <h1 style="color:rgb(51, 255, 0);">WELCOME HTML</h1>
+    <img src="C:\Users\ToshibaPC\Desktop\zdjecie html/IMG_5842.JPG" alt="Olga-Domowe archiwum" title="Ola - 2 latka " width="220" height="220">
+    <br>
+    <hr>
+
+    <h2>To sa pierwsze proby pisania <br> i czytania i pisania i znowu czytania ; to jest "H2" </h2>
+    <h3 style="color:rgb(0, 17, 255);">Proba na probie pogania probe ; to jest "H3"</h3>
+    <h4>Proba na probie pogania probe ; to jest "H4"</h4>
+    <hr>
+    <h5>Wielka proba i probnik</h5>
+    <hr>
+    <h6>i na koncu mamy ; "h6" </h6>
+    <p style="color:red;">– Na moim sihillu – warknął Zoltan <br>obnażając miecz – wyryte jest starodawnymi <br> krasnoludzkimi runami prastare krasnoludzkie zaklęcie.<br> Niech no jeno który ghul zbliży się na długość klingi<br> popamięta mnie. O, popatrzcie.
+      – Ha – zaciekawił się Jaskier<br> który właśnie zbliżył się do nich. <br>– Więc to są te słynne tajne runy krasnoludów?<br> Co głosi ten napis?
+      <br>– „Na pohybel skurwysynom!”</p>
+
+    <a href="https://mlodytechnik.pl/eksperymenty-i-zadania-szkolne/kosmos/30432-droga-mleczna-nasz-kosmiczny-dom-czesc-1-budowa-i-sklad" >NACISNIJ LINK </a>
+    <br><br><br>
+    <img src="https://media.istockphoto.com/photos/turtle-closeup-with-school-of-fish-picture-id1170804921?k=20&m=1170804921&s=612x612&w=0&h=W4zAOSr9DzJvJO-uib7GiwZ9kaleupO_LspfXvOT0HE=" title="Zolw Afrykanski" alt="www.istockphoto.com" width="310" height="300">
+    <img src="https://media.istockphoto.com/photos/red-panda-in-a-tree-looking-at-the-camera-picture-id147050490?s=612x612" alt="istockphoto.com" title="Ja jestem zly Mis" width="440" height="208">
+  </body>
+</html>
